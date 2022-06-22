@@ -1,0 +1,7 @@
+D:\C#\words-spelling-app\DataProgram\DataProgram\bin\Debug\DataProgram.exe.config
+D:\C#\words-spelling-app\DataProgram\DataProgram\bin\Debug\DataProgram.exe
+D:\C#\words-spelling-app\DataProgram\DataProgram\bin\Debug\DataProgram.pdb
+D:\C#\words-spelling-app\DataProgram\DataProgram\obj\Debug\DataProgram.csproj.AssemblyReference.cache
+D:\C#\words-spelling-app\DataProgram\DataProgram\obj\Debug\DataProgram.csproj.CoreCompileInputs.cache
+D:\C#\words-spelling-app\DataProgram\DataProgram\obj\Debug\DataProgram.exe
+D:\C#\words-spelling-app\DataProgram\DataProgram\obj\Debug\DataProgram.pdb
