@@ -13,15 +13,7 @@ namespace DataProgram
         static string word;
         static int mode;
 
-        static void Exists(string x)
-        {
-
-        }
-
-        static void WriteWordInFile()
-        {
-
-        }
+        
 
         static string GetKeyWord(string x)
         {
@@ -34,6 +26,32 @@ namespace DataProgram
                 return x.Substring(0, i);
         }
         
+        //Sorts the words in the file alphabetically
+        static void SortFile()
+        {
+            StreamReader reader = new StreamReader("WordList.txt");
+            string helpStr;
+            List<string> ans = new List<string>();
+            while(!reader.EndOfStream)
+            {
+                helpStr = reader.ReadLine();
+                ans.Add(helpStr);
+            }
+            reader.Close();
+
+            ans.Sort();
+            
+            //for(int i=0;i<ans.Count;i++)
+            //Console.WriteLine(ans[i]);
+            
+            StreamWriter writer = new StreamWriter("WordList.txt");
+            for(int i=0;i<ans.Count;i++)
+                writer.WriteLine(ans[i]);
+            writer.Close();
+
+        }
+
+
         //Option 1 from the main menu
         static void CheckOrAddWord()
         {
@@ -75,6 +93,9 @@ namespace DataProgram
                      writer.WriteLine(word);
                      writer.Close();
                     }
+
+                SortFile();
+
             }
         }
 
