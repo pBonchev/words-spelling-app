@@ -48,6 +48,7 @@ namespace DataProgram
             for(int i=0;i<ans.Count;i++)
                 writer.WriteLine(ans[i]);
             writer.Close();
+            Console.WriteLine($"Total words: {ans.Count}");
 
         }
 
