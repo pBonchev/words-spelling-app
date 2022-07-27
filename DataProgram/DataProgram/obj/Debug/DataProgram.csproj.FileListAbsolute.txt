@@ -5,3 +5,11 @@ D:\C#\words-spelling-app\DataProgram\DataProgram\obj\Debug\DataProgram.csproj.As
 D:\C#\words-spelling-app\DataProgram\DataProgram\obj\Debug\DataProgram.csproj.CoreCompileInputs.cache
 D:\C#\words-spelling-app\DataProgram\DataProgram\obj\Debug\DataProgram.exe
 D:\C#\words-spelling-app\DataProgram\DataProgram\obj\Debug\DataProgram.pdb
+D:\Boris\C#\words-spelling-app\DataProgram\DataProgram\bin\Debug\DataProgram.exe.config
+D:\Boris\C#\words-spelling-app\DataProgram\DataProgram\bin\Debug\DataProgram.exe
+D:\Boris\C#\words-spelling-app\DataProgram\DataProgram\bin\Debug\DataProgram.pdb
+D:\Boris\C#\words-spelling-app\DataProgram\DataProgram\obj\Debug\DataProgram.csproj.AssemblyReference.cache
+D:\Boris\C#\words-spelling-app\DataProgram\DataProgram\obj\Debug\DataProgram.csproj.CoreCompileInputs.cache
+D:\Boris\C#\words-spelling-app\DataProgram\DataProgram\obj\Debug\DataProgram.exe
+D:\Boris\C#\words-spelling-app\DataProgram\DataProgram\obj\Debug\DataProgram.pdb
+D:\Boris\C#\words-spelling-app\DataProgram\DataProgram\obj\Debug\DataProgram.csproj.SuggestedBindingRedirects.cache
